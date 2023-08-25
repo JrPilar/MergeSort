@@ -1,4 +1,4 @@
 # MergeSort
-Two .cpp codes to sort one or two dimentional array of double type numbers\n
-Sort.cpp - for one dimentional array\n
+Two .cpp codes to sort one or two dimentional array of double type numbers\end
+Sort.cpp - for one dimentional array
 Sort_v2.cpp -  for 2-dimentional
